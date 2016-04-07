@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+This is some stuff.
+
+This is also some stuff.
+
+This is not stuff. Stop looking at it.
